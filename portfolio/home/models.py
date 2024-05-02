@@ -1,6 +1,5 @@
 from statistics import mode
 from django.db import models
-from flask_sqlalchemy import Model
 
 # Create your models here.
 
